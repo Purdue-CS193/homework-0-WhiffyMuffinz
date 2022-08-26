@@ -1,4 +1,4 @@
-# Daniel's Forst CS193 assignment.
+# Daniel's First CS193 assignment.
 
 ## Some of my favorite things about CS193:
 
